@@ -83,7 +83,7 @@ Policy implications: Suggest phased increases in carbon rates with sector-specif
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/AnushkaChaugule/Carbon-Pricing-Effectiveness.git
 cd <repo-name>
 
 
